@@ -27,7 +27,9 @@ Assuming that you submit a viable solution, we are then first and foremost inter
 
 ### Submitting your solution
 
-Fork this repository, make your fork private, create your solution in your fork, then add @ckortekaas to your fork, and let us know that you've completed the challenge.
+Clone this repository and set up your own, new private repository as the origin remote.
+
+Once your remote repository is ready, add @ckortekaas and let us know that you've completed the challenge.
 
 ---
 
